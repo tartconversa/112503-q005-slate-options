@@ -1,0 +1,6 @@
+offer,package,project,market,minimum,receipt_quarter,expiry,rev
+B1,G1,P1,mainland,1240,2027Q2,2026-11-25,r1
+B2,G1,P2,mainland,1240,2027Q2,2026-11-25,r1
+B3,G2,P3,overseas,480,2027Q2,2026-11-30,r1
+B4,G3,P4,overseas,900,2027Q3,2026-11-25,r1
+B4,G3,P4,overseas,720,2027Q3,2026-11-26,r2

@@ -1,0 +1,7 @@
+scenario_id,market,quarter,receipt_factor,delay_days
+slow,mainland,2027Q2,0.8,40
+slow,overseas,2027Q2,0.75,55
+steady,mainland,2027Q2,1.0,0
+steady,overseas,2027Q2,1.0,0
+slow,overseas,2027Q3,0.7,55
+steady,overseas,2027Q3,1.0,0

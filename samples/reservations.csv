@@ -1,0 +1,4 @@
+commitment,project,resource,start,stop,fee_paid,cancel_fee,settlement,state
+K1,P1,CastA,2026-12-02,2026-12-20,120,0,2026Q4,paid
+K2,P4,CastA,2027-02-01,2027-02-21,0,40,2026Q4,cancelable
+K3,P3,CrewB,2027-01-12,2027-01-29,0,80,2027Q1,fixed

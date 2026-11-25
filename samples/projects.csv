@@ -1,0 +1,5 @@
+project,kind,market,delivery_due,option_until,plan
+P1,long,mainland,2027-03-31,2026-11-25,script
+P2,short,mainland,2027-02-28,2026-11-28,pilot
+P3,short,overseas,2027-03-15,2026-12-01,ready
+P4,long,overseas,2027-06-30,2026-11-24,pilot

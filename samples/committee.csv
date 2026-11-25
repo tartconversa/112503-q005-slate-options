@@ -1,0 +1,5 @@
+decision,project,reported,quarter,cash_cap,kind,signal
+D1,P3,2026-10-23,2027Q1,890,fixed,short-overseas
+D2,P4,2026-11-22,2027Q1,890,pilot,positive
+D3,P4,2026-11-24,2027Q1,890,pilot,revised
+D4,P2,2026-11-18,2026Q4,530,category,short-mainland

@@ -1,0 +1,6 @@
+stage,project,quarter,cost,condition,resource,first,last,max_delay_days
+S1,P1,2026Q4,330,option,CastA,2026-12-02,2026-12-20,12
+S2,P1,2027Q1,600,shoot,CrewA,2027-01-07,2027-02-06,10
+S3,P2,2027Q1,190,shoot,CrewA,2027-01-10,2027-01-28,12
+S4,P3,2027Q1,160,shoot,CrewB,2027-01-12,2027-01-29,15
+S5,P4,2027Q1,420,shoot,CastA,2027-02-01,2027-02-21,10
